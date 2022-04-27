@@ -243,4 +243,8 @@ footer {
         justify-content: center;
         align-items: center;
     }
+    .one h1 {
+        line-height: 50px;
+    }
+}
 }
